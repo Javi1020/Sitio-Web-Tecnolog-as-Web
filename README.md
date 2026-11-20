@@ -49,7 +49,7 @@ Sitio-Web-Tecnolog-as-Web/
 | nav                  |Representa una sección de una página cuyo propósito es proporcionar enlaces de navegación, ya sea dentro del documento actual o a otros documentos.|
 | body                 |Contiene todo el contenido visible de una página web, como textos, títulos, imágenes, enlaces, tablas, listas y formularios.|
 | main                 |Es un elemento estructural que representa el contenido principal de un documento. Es como el centro neurálgico de tu página web, que encapsula el contenido principal. Al incluir el contenido principal dentro de la etiqueta, les indica a los navegadores que esta es la información esencial que buscan los usuarios.|
-| section              |
+| section              |Representa una sección genérica e independiente de un documento, que no tiene un elemento semántico más específico para representarla. Las secciones siempre deben tener un encabezado, con muy pocas excepciones.|
 | article              |
 | aside                |
 | footer               |
