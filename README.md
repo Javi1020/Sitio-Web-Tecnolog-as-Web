@@ -58,9 +58,9 @@ Sitio-Web-Tecnolog-as-Web/
 | ul                   |Se utiliza para crear agrupaciones de elementos que no requieren un orden numérico o secuencial específico.|
 | ol                   |Representa una lista ordenada de elementos; por lo general, se muestra como una lista numerada.|
 | table                |Representa datos en dos o mas dimensiones.|
-| figure y img         |
-| iframe               |
-| form                 |
+| figure y img         |<figure> Representa contenido independiente, a menudo con un título. El elemento <img> de HTML incrusta una imagen en el documento.|
+| iframe               |Representa un contexto de navegación anidado, el cual permite incrustrar otra página HTML en la página actual.|
+| form                 |Representa una sección de un documento que contiene controles interactivos que permiten a un usuario enviar información a un servidor web.|
 
 
 
