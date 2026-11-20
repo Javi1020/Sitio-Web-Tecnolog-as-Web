@@ -47,8 +47,8 @@ Sitio-Web-Tecnolog-as-Web/
 |-------------------------|------------------------------------|
 | header               |Es la cabecera o franja superior que suele repetirse en todas las páginas y ofrece identidad de marca, navegación principal y accesos rápidos.| 
 | nav                  |Representa una sección de una página cuyo propósito es proporcionar enlaces de navegación, ya sea dentro del documento actual o a otros documentos.|
-| body                 |
-| main                 |
+| body                 |Contiene todo el contenido visible de una página web, como textos, títulos, imágenes, enlaces, tablas, listas y formularios.|
+| main                 |Es un elemento estructural que representa el contenido principal de un documento. Es como el centro neurálgico de tu página web, que encapsula el contenido principal. Al incluir el contenido principal dentro de la etiqueta, les indica a los navegadores que esta es la información esencial que buscan los usuarios.|
 | section              |
 | article              |
 | aside                |
