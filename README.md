@@ -45,7 +45,8 @@ Sitio-Web-Tecnolog-as-Web/
 
 |Etiqueta                 |Descripción                         |
 |-------------------------|------------------------------------|
-| header               |Es la cabecera o franja superior que suele repetirse en todas las páginas y ofrece identidad de marca, navegación principal y accesos rápidos.|
+| header               |Es la cabecera o franja superior que suele repetirse en todas las páginas y ofrece identidad de marca, navegación principal y accesos rápidos.| 
+| nav                  |Representa una sección de una página cuyo propósito es proporcionar enlaces de navegación, ya sea dentro del documento actual o a otros documentos.|
 
 
 
