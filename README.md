@@ -43,8 +43,9 @@ Sitio-Web-Tecnolog-as-Web/
 
 ### **3. Etiquetas HTML5 utilizadas**
 
-|-------Etiqueta----------|-------------Descripción-------------|
-|------<header>-----------|Es la cabecera o franja superior que suele repetirse en todas las páginas y ofrece identidad de marca, navegación principal y accesos rápidos.|
+|Etiqueta                 |Descripción                         |
+|-------------------------|------------------------------------|
+|<header>|Es la cabecera o franja superior que suele repetirse en todas las páginas y ofrece identidad de marca, navegación principal y accesos rápidos.|
 
 
 
