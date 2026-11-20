@@ -54,10 +54,10 @@ Sitio-Web-Tecnolog-as-Web/
 | aside                |Representa una parte de un documento cuyo contenido está relacionado solo indirectamente con el contenido principal del documento.|
 | footer               |Representa un pie de página para su antecesor más cercano, el contenido de la sección o el elemento raíz de la sección . Normalmente contiene información sobre el autor de la sección, datos de derechos de autor o enlaces a documentos relacionados.|
 | h1                   |Define el encabezado principal o título más importante de una página web.|
-| h3                   |
-| ul                   |
-| ol                   |
-| table                |
+| h3                   |Define un encabezado de tercer nivel para organizar subsecciones dentro de un tema principal.|
+| ul                   |Se utiliza para crear agrupaciones de elementos que no requieren un orden numérico o secuencial específico.|
+| ol                   |Representa una lista ordenada de elementos; por lo general, se muestra como una lista numerada.|
+| table                |Representa datos en dos o mas dimensiones.|
 | figure y img         |
 | iframe               |
 | form                 |
