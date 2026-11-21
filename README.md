@@ -20,15 +20,25 @@ Sitio-Web-Tecnolog-as-Web/
 ├── .gitignore                      # Exclusión de archivos temporales y configuración del editor
 
 ├── css/
+
 │   └── styles.css                  # Hoja de estilos en cascada (diseño responsivo, tarjetas y colores)
+
 ├── images/                         # Recursos gráficos optimizados en formato PNG (7 imágenes)
+
 │   ├── web-global.png
+
 │   ├── educacion-web.png
+
 │   ├── educacion-remota.png
+
 │   ├── inclusion-digital.png
+
 │   ├── comercio-electronico.png
+
 │   ├── servidores-cloud.png
+
 │   └── internet-comunicacion.png
+
 └── pages/                          # Páginas secundarias enlazadas mediante rutas relativas
     ├── sociedad.html               # Análisis de democratización del conocimiento y desafíos sociales
     ├── negocios.html               # Modelos B2C, B2B, SaaS, tabla comparativa y comunicación corporativa
