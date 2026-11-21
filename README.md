@@ -14,8 +14,11 @@ En este desarrollo del proyecto aplicaremos los respectivos conocimientos los cu
 Sitio-Web-Tecnolog-as-Web/
 
 ├── index.html                      # Página principal: Introducción, video y transformación digital
+
 ├── README.md                       # Documentación general del repositorio
+
 ├── .gitignore                      # Exclusión de archivos temporales y configuración del editor
+
 ├── css/
 │   └── styles.css                  # Hoja de estilos en cascada (diseño responsivo, tarjetas y colores)
 ├── images/                         # Recursos gráficos optimizados en formato PNG (7 imágenes)
