@@ -88,7 +88,9 @@ Figura 5: sociedad.html
 
 Todos los resultados obtenidos en la herramienta W3C fueron éxitosos, todos los archivos html fueron validados correctamente.
 
+En la interfaz del sitio web fueron realizadas correctamente, para lo cual se agrega evidencia de cada sección:
 
+Figura 6: 
 
 
 
