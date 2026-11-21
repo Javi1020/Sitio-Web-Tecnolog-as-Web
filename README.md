@@ -91,12 +91,21 @@ Todos los resultados obtenidos en la herramienta W3C fueron éxitosos, todos los
 En la interfaz del sitio web fueron realizadas correctamente, para lo cual se agrega evidencia de cada sección:
 
 Figura 6: Inicio 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a5f8a80e-e803-4e3c-a5df-879deca8a347" />
+Vista de la página principal la cual muestra la cabecera semántica
 
 Figura 7: Impacto Social
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7340feb7-23af-41bd-b5a9-7675d078f88e" />
+Vista de la página secundaria el cual aborda temas como eduación remota
 
 Figura 8: Impacto en Negocios 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c2ed6d73-a2a2-45f0-9033-25c8d5530d47" />
+Vista de página secundaria en la cual se evidencia una tabla comparativa
 
 Figura 9: Contacto
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/662f1b49-48ce-4314-8656-53d46ad7a7c1" />
+Vista del formulario de contacto 
+
 
 
 
