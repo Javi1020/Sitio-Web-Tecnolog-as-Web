@@ -106,6 +106,15 @@ Figura 9: Contacto
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/662f1b49-48ce-4314-8656-53d46ad7a7c1" />
 Vista del formulario de contacto 
 
+### **5. Enlace al repositorio**
+
+Repositorio GitHub: https://www.google.com/search?q=https://github.com/Javi1020/Sitio-Web-Tecnolog-as-Web
+
+Figura 8: Estructura del proyecto
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/056afda0-5976-4d07-8750-b2f37433b157" />
+Historial de commits correspondiente al repositorio de GitHub
+
+
 
 
 
