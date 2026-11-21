@@ -11,8 +11,8 @@ En este desarrollo del proyecto aplicaremos los respectivos conocimientos los cu
 
 ### **2. Descripción y Estructura del Sitio Web**
 
+```text
 Sitio-Web-Tecnolog-as-Web/
-
 ├── index.html                      # Página principal: Introducción, video y transformación digital
 ├── README.md                       # Documentación general del repositorio
 ├── .gitignore                      # Exclusión de archivos temporales y configuración del editor
@@ -30,6 +30,7 @@ Sitio-Web-Tecnolog-as-Web/
     ├── sociedad.html               # Análisis de democratización del conocimiento y desafíos sociales
     ├── negocios.html               # Modelos B2C, B2B, SaaS, tabla comparativa y comunicación corporativa
     └── contacto.html               # Formulario interactivo de comunicación y consultas.
+```
 
 * **index.html** Es el punto de entrada al sitio Web, en esta sección se presenta la evolución de la Web y sus diferentes etapas haciendo enfásis como se fue desarrollando el cual se presenta mediante un video explicativo.
 
