@@ -36,11 +36,11 @@ Sitio-Web-Tecnolog-as-Web/
 
 * **sociedad.html** En esta segunda sección de la página Web abarca temas como la democratización de la información y la educación a distancia
 
-* **negocios.html** Para esta parte contemple temas como los modelos del comerio electrónico además se adjunta una tabla comparativa en la cual se establece los mecanismos del modelo tradicional físico y el modelo digital web.
+* **negocios.html** Para esta parte contemple temas como los modelos del comercio electrónico además se adjunta una tabla comparativa en la cual se establece los mecanismos del modelo tradicional físico y el modelo digital web.
 
 * **contacto.html** Para la parte final se incluyo una sección/ventana de buzón de contacto la misma que cuenta con sus respectivos campos para poder completar.
 
-* **styles.css** Definimos la vista mediante CSS, en el cual estara definido el diseño en como estara organizada la información, los colores y los contenedores.
+* **styles.css** Definimos la vista mediante CSS, en el cual estará definido el diseño en cómo está organizada la información, los colores y los contenedores.
 
 ### **3. Etiquetas HTML5 utilizadas**
 
@@ -74,7 +74,7 @@ Permite:
 Figura 1: W3C
 <img width="1055" height="301" alt="image" src="https://github.com/user-attachments/assets/3011e8d6-4efb-48b9-a657-6297cd30d7b5" />
 
-El sitio Web realizado se verifico y valido en W3C para comprobar si cumple con los estándares necesarios para su correcto funcionamiento, todos los archivos .html de nuestra página web fueron comprobados por lo cual se adjunta las verificaciones de cada página.
+El sitio Web realizado se verificó y validó en W3C para comprobar si cumple con los estándares necesarios para su correcto funcionamiento, todos los archivos .html de nuestra página web fueron comprobados por lo cual se adjunta las verificaciones de cada página.
 
 Figura 2: index.html
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e6f9528a-27ec-45d3-afe8-7108421106f5" />
@@ -115,7 +115,19 @@ Repositorio GitHub: https://github.com/Javi1020/Sitio-Web-Tecnolog-as-Web
 Figura 8: Estructura del proyecto
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/056afda0-5976-4d07-8750-b2f37433b157" />
 Historial de commits correspondiente al repositorio de GitHub
+### **6. Conclusiones**
 
+1.	El uso adecuado de las etiquetas utilizadas para elaborar el sitio web como <header>, <nav>, <main>, etc. 
+Estos permiten construir un sitio web limpio permitiendo que sea entendible para los usuarios y al momento de utilizar o navegar durante el mismo lo que garantizaría una correcta estructura. 
+2.	Una buena forma de estructurar el sitio web es separarlo por secciones o pestañas lo que facilita la navegación y esto ayuda a facilitar la experiencia del usuario, implementado imágenes, colores, enlaces. Lo que mantiene un diseño adaptable y fácil de usar.
+3.	Para el desarrollo de este trabajo se integró Git desde la terminal de desarrollo de (VS Code) lo que ayudó al registro de los respectivos cambios mediante commits lo que permitía respaldar el código empleado para un trabajo eficaz.
+
+### **7. Referencias**
+
+Transformación digital. Qué es y su importancia y relación con los datos. (s. f.). https://www.powerdata.es/transformacion-digital
+Merodio, J. (2026, November 1). Evolución de la web 1.0, 2.0, 3.0 y 4.0. Blog de Wix. https://es.wix.com/blog/evolucion-de-la-web 
+Tek. (2024, October 28). El Impacto de las Tecnologías Digitales en la Sociedad Moderna. Tek Soluciones Tecnológicas. https://tek.com.co/el-impacto-de-las-tecnologias-digitales-en-la-sociedad-moderna/ 
+Coicaud, S. (2002). La democratización del conocimiento a través de la educación a distancia. Etic@net, 1(0), 1-13.  https://www.ugr.es/~sevimeco/revistaeticanet/Numero0/Articulos/democratizacion_%20del_%20conocimiento.pdf  [1, 2] 
 
 
 
