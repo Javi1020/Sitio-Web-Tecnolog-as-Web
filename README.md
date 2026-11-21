@@ -12,6 +12,7 @@ En este desarrollo del proyecto aplicaremos los respectivos conocimientos los cu
 ### **2. Descripción y Estructura del Sitio Web**
 
 Sitio-Web-Tecnolog-as-Web/
+
 ├── index.html                      # Página principal: Introducción, video y transformación digital
 ├── README.md                       # Documentación general del repositorio
 ├── .gitignore                      # Exclusión de archivos temporales y configuración del editor
