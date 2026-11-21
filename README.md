@@ -61,7 +61,7 @@ Sitio-Web-Tecnolog-as-Web/
 | iframe               |Representa un contexto de navegación anidado, el cual permite incrustrar otra página HTML en la página actual.|
 | form                 |Representa una sección de un documento que contiene controles interactivos que permiten a un usuario enviar información a un servidor web.|
 
-### **4. Validación W3C y evidencia del Sitio Web
+### **4. Validación W3C y evidencia del Sitio Web**
 
 Es una herramienta que revisa si el código de una página web cumple con los estándares oficiales (como HTML y XHTML) y detecta errores de sintáxis. 
 Permite:
@@ -71,6 +71,23 @@ Permite:
 
 Figura 1: W3C
 <img width="1055" height="301" alt="image" src="https://github.com/user-attachments/assets/3011e8d6-4efb-48b9-a657-6297cd30d7b5" />
+
+El sitio Web realizado se verifico y valido en W3C para comprobar si cumple con los estándares necesarios para su correcto funcionamiento, todos los archivos .html de nuestra página web fueron comprobados por lo cual se adjunta las verificaciones de cada página.
+
+Figura 2: index.html
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e6f9528a-27ec-45d3-afe8-7108421106f5" />
+
+Figura 3: contacto.html
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/26eb91d6-feef-430f-9050-37ed55fbc0dc" />
+
+Figura 4: negocios.html
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5dc3a8a1-f863-45e5-9304-2261e5b5a764" />
+
+Figura 5: sociedad.html
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/60290b51-325e-4699-b383-54984dc297d5" />
+
+Todos los resultados obtenidos en la herramienta W3C fueron éxitosos, todos los archivos html fueron validados correctamente.
+
 
 
 
