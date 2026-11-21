@@ -125,8 +125,11 @@ Estos permiten construir un sitio web limpio permitiendo que sea entendible para
 ### **7. Referencias**
 
 Transformación digital. Qué es y su importancia y relación con los datos. (s. f.). https://www.powerdata.es/transformacion-digital
-Merodio, J. (2026, November 1). Evolución de la web 1.0, 2.0, 3.0 y 4.0. Blog de Wix. https://es.wix.com/blog/evolucion-de-la-web 
-Tek. (2024, October 28). El Impacto de las Tecnologías Digitales en la Sociedad Moderna. Tek Soluciones Tecnológicas. https://tek.com.co/el-impacto-de-las-tecnologias-digitales-en-la-sociedad-moderna/ 
+
+Merodio, J. (2026, November 1). Evolución de la web 1.0, 2.0, 3.0 y 4.0. Blog de Wix. https://es.wix.com/blog/evolucion-de-la-web
+
+Tek. (2024, October 28). El Impacto de las Tecnologías Digitales en la Sociedad Moderna. Tek Soluciones Tecnológicas. https://tek.com.co/el-impacto-de-las-tecnologias-digitales-en-la-sociedad-moderna/
+
 Coicaud, S. (2002). La democratización del conocimiento a través de la educación a distancia. Etic@net, 1(0), 1-13.  https://www.ugr.es/~sevimeco/revistaeticanet/Numero0/Articulos/democratizacion_%20del_%20conocimiento.pdf  [1, 2] 
 
 
