@@ -90,8 +90,13 @@ Todos los resultados obtenidos en la herramienta W3C fueron éxitosos, todos los
 
 En la interfaz del sitio web fueron realizadas correctamente, para lo cual se agrega evidencia de cada sección:
 
-Figura 6: 
+Figura 6: Inicio 
 
+Figura 7: Impacto Social
+
+Figura 8: Impacto en Negocios 
+
+Figura 9: Contacto
 
 
 
