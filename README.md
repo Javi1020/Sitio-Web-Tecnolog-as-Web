@@ -1,9 +1,8 @@
 # Universidad Técnica Particular de Loja 
 ## Sitio-Web-Tecnolog-as-Web 
-## Modalidad Abierta y a Distancia/Presencial 
 ## Carrera:  Inegineiria en Ciencias de la Computación/Tecnologías de la Información
 ## Asignatura:  Tecnologías Web
-## Tema del Proyecto: ## Impacto de las Tecnologías en la Sociedad y los Negocios
+## Tema del Proyecto:  Impacto de las Tecnologías en la Sociedad y los Negocios
 ## Estudiante:  Javier De Jesús Montaño Cabrera
 
 ### **1. Objetivo del Proyecto**
@@ -62,8 +61,16 @@ Sitio-Web-Tecnolog-as-Web/
 | iframe               |Representa un contexto de navegación anidado, el cual permite incrustrar otra página HTML en la página actual.|
 | form                 |Representa una sección de un documento que contiene controles interactivos que permiten a un usuario enviar información a un servidor web.|
 
+### **4. Validación W3C y evidencia del Sitio Web
 
+Es una herramienta que revisa si el código de una página web cumple con los estándares oficiales (como HTML y XHTML) y detecta errores de sintáxis. 
+Permite:
 
+* Comprobar que está bien formado el código fuente de una página de un sitio web.
+* Ver el listado de errores detectados indicando la línea de código donde está situado cada uno, e indicando por qué se considera un error.
+
+Figura 1: W3C
+<img width="1055" height="301" alt="image" src="https://github.com/user-attachments/assets/3011e8d6-4efb-48b9-a657-6297cd30d7b5" />
 
 
 
